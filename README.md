@@ -35,4 +35,6 @@ employee information and changes
  + The system must be developed and delivered as a Web-centric (Web-based) application.
  + Uses existing hardware and middleware.
 
+[FlowChart](VTC-flowchart.png)
+
 

@@ -7,7 +7,7 @@ capability to manage their own vacation time, sick leave, and personal time off,
 without having to be an expert in company policy or the local facility’s leave 
 policies.
 
-# 🧩 Functional Requirment
+## 🧩 Functional Requirment
 Implements a flexible rules-based system for validating and verifying leave 
 time requests
  + Enables manager approval (optional)
@@ -31,7 +31,7 @@ employee information and changes
   + Must use the portal’s SSO.
   + Uses existing hardware and middleware.
     
-#  Constraints
+## Constraints
  + The system must be developed and delivered as a Web-centric (Web-based) application.
  + Uses existing hardware and middleware.
 

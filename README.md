@@ -25,7 +25,7 @@ given employee’s vacation request summary.
 + Interfaces with the HR department legacy systems to retrieve required 
 employee information and changes
 
-# 🧩 Non-Functional Requirment
+## 🧩 Non-Functional Requirment
   + The system must be easy to use.
   + Must integrate with the existing intranet portal for all authentication.
   + Must use the portal’s SSO.
@@ -35,6 +35,6 @@ employee information and changes
  + The system must be developed and delivered as a Web-centric (Web-based) application.
  + Uses existing hardware and middleware.
 
-[FlowChart](VTC-flowchart.png)
+
 
 

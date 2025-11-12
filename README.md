@@ -35,6 +35,35 @@ employee information and changes
  + The system must be developed and delivered as a Web-centric (Web-based) application.
  + Uses existing hardware and middleware.
 
+## 🧩 System Roles
+
+- **Employee:**  
+  Manages personal vacation requests and balances.
+
+- **Manager:**  
+  Has all employee permissions plus the ability to approve or deny subordinates’ vacation requests and grant compensatory time.
+
+- **HR Clerk:**  
+  Manages and updates employee records in the system; can add or remove most data entries.
+
+- **System Admin:**  
+  Maintains system operations, servers, databases, and log archives.
+  ***
+
+## ⏰ Use Case: Manage Time
+
+### 👤 Actor
+Employee
+
+### 🎯 Goal
+Allow the employee to submit a new request for vacation time.
+
+## 1.FlowChart Diagram
+| Employee flow |  Manager flow |
+|:--------------:|:------------------:|
+| ![Use Case 1](flowchart/ManageTime-Employee.svg) | ![Use Case 2](flowchart/ManageTime-Manager.svg) |
+
+
 
 
 
